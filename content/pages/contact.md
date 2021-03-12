@@ -12,7 +12,7 @@ form_fields:
   - input_type: email
     name: email
     label: Email
-    default_value: зф-щз
+    default_value: pa-op@mail.ru
     is_required: true
   - input_type: select
     name: subject
