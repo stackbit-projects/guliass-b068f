@@ -15,7 +15,7 @@ form_fields:
     default_value: pa-op@mail.ru
     is_required: true
   - input_type: select
-    name: subject
+    name: '!'
     label: Subject
     default_value: Please select
     options:
