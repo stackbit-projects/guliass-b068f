@@ -8,6 +8,7 @@ form_fields:
     name: name
     label: Name
     is_required: true
+    default_value: Юлия
   - input_type: email
     name: email
     label: Email
