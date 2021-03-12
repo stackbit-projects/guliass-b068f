@@ -25,6 +25,7 @@ form_fields:
   - input_type: textarea
     name: message
     label: Message
+    default_value: Привет!Рада видеть тебя на своем новом сайте!
   - input_type: checkbox
     name: consent
     label: >-
